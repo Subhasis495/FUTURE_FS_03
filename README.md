@@ -4,6 +4,11 @@
 
 This project showcases a complete **AI-powered redesign and rebrand** of the famous **Swiggy** food delivery platform. Using modern web technologies and design principles, we've created a pixel-perfect, fully responsive recreation of Swiggy's entire ecosystem with enhanced user experience and contemporary visual design.
 
+## 🚀 Live Demo
+
+[View Live Website](https://swiggy-clone-green.vercel.app/)
+
+
 ## 🎯 REBRAND A FAMOUS BRAND'S WEBSITE USING AI
 
 This project demonstrates the power of **AI-assisted web development** by completely rebranding and redesigning one of India's most popular food delivery platforms. The entire codebase, design system, and user experience flow were conceptualized and implemented with AI assistance, showcasing how artificial intelligence can be leveraged to create production-ready web applications.
@@ -206,8 +211,7 @@ This project demonstrates AI-assisted development capabilities. Contributions ar
 
 ## 📄 License
 
-This project is created for educational and demonstration purposes, showcasing AI-powered web development capabilities.
-
+This project is created for educational and demonstration purposes
 ## 🙏 Acknowledgments
 
 - **Swiggy** for the original design inspiration
@@ -217,6 +221,5 @@ This project is created for educational and demonstration purposes, showcasing A
 
 ---
 
-**Built with ❤️ using AI-powered development tools**
 
 *This project showcases how artificial intelligence can be leveraged to create comprehensive, production-ready web applications with modern design principles and robust functionality.*
